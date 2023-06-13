@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haunted-house/static/css/main.cc150977.css",
+    "main.js": "/haunted-house/static/js/main.1002e2cb.js",
+    "static/media/house.png": "/haunted-house/static/media/house.d79591f7296cf3a45936.png",
+    "static/media/scene.avif": "/haunted-house/static/media/scene.3816571126ea73737645.avif",
+    "index.html": "/haunted-house/index.html",
+    "main.cc150977.css.map": "/haunted-house/static/css/main.cc150977.css.map",
+    "main.1002e2cb.js.map": "/haunted-house/static/js/main.1002e2cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc150977.css",
+    "static/js/main.1002e2cb.js"
+  ]
+}
